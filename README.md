@@ -1,4 +1,5 @@
-# How to Run This Project
+
+This was the first app I created back in 2016 while I was in school. 
 
 Follow these steps to set up and run the Pixelair project on your local machine:
 
